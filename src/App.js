@@ -1,6 +1,6 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -17,6 +17,11 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+        </a>
+        <br />
+        by
+        <a href="http://www.fabiovige.com" target="_blank" title="fabio Vige">
+          fabiovige.com
         </a>
       </header>
     </div>
